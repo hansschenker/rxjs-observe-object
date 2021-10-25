@@ -1,3 +1,15 @@
 h3 {
     color: blue;
 }
+
+.input-fields {
+    display: flex;
+    flex-direction: column;
+}
+.field {
+    margin-bottom: .25em;
+}
+.field-label {
+    display: block;
+    width: 100px;
+}
